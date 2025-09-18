@@ -14,10 +14,6 @@ library(moderndive)
 data("early_january_weather", package = "moderndive")
 ```
 
-We should know the data in this dataset:
-```{r}
-View(early_january_weather)
-summary(early_january_weather)
 ```
 Then, we give a short description of the penguins dataset and show variables, size and mean:
 
